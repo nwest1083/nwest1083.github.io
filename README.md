@@ -4,4 +4,4 @@ It is my hope this page can serve as a connection to the Internet and allow me t
 
 Please check out my LinkedIN profile!
 
-[LinkedIn Profle] (https://www.linkedin.com/in/nmwest/)
+[LinkedIn Profle](https://www.linkedin.com/in/nmwest/)
